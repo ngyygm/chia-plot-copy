@@ -1,5 +1,7 @@
 # chia-plot-copy
-用于自动转存产生好的chia plot文件
+用于自动转存产生好的chia plot文件  
+hia-plot-copy.exe 和 SSD2HDD.txt要放同一个文件夹下。  
+绘图工具缓存目录和最终目录都设成固态硬盘，同个地方。这样就能秒结束了。
 
 ## 文件介绍
 ### 源码：chia-plot-copy.py
